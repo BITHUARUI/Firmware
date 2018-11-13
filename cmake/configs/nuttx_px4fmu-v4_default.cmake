@@ -155,4 +155,3 @@ set(config_module_list
 	# Hardware test
 	examples/hwtest
 )
-examples/px4_simple_app
