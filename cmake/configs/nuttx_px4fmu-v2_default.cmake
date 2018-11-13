@@ -185,3 +185,4 @@ set(config_module_list
 )
 
 set(flight_tasks_to_remove Orbit)
+examples/px4_simple_app
